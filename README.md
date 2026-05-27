@@ -1,4 +1,4 @@
-
+Video Link Loom: https://www.loom.com/share/2e9ba164d908417d893c54f616353e20
 # ELD Trip Planner — FMCSA Part 395 Compliant
 
 A full-stack ELD (Electronic Logging Device) trip planner with official DOT-compliant Driver's Daily Logs.
